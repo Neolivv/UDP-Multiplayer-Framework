@@ -10,3 +10,11 @@ UserSettings/
 # OS
 .DS_Store
 Thumbs.db
+
+# Visual Studio / VS Code / IDE stuff
+.vs/
+*.user
+*.suo
+*.sdf
+*.db
+*.opendb

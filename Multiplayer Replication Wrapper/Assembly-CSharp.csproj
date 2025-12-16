@@ -64,8 +64,10 @@
     <Compile Include="Assets\Scripts\MessageSerializer.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\MessageTypes\MessageTypes.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\MessageTypes\PlayerJoin.cs" />
     <Compile Include="Assets\Scripts\MainThreadDispatcher.cs" />
+    <Compile Include="Assets\Scripts\Managers\TickManager.cs" />
     <Compile Include="Assets\Scripts\Managers\NetworkManager.cs" />
     <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
     <Compile Include="Assets\Scripts\Managers\ChatManager.cs" />
@@ -79,7 +81,9 @@
     <Compile Include="Assets\Scripts\MessageTypes\PlayerList.cs" />
     <Compile Include="Assets\Scripts\MessageTypes\PlayerLeave.cs" />
     <Compile Include="Assets\Scripts\MessageTypes\NetMessage.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\UdpTransport.cs" />
+    <Compile Include="Assets\Scripts\PingCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

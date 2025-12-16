@@ -18,6 +18,7 @@ public static class MessageDispatcher
                     {
                         if (!GameManager.Instance.PlayerExists(playerData.id))
                         {
+                            GameManager.Instance.OnPlayerJoined?.Invoke(playerData.id);
                             GameManager.Instance.SpawnPlayer(playerData.id);
                         }
                     }
@@ -43,7 +44,7 @@ public static class MessageDispatcher
                 break;
             case MessageTypes.PlayerMove:
                 PlayerMove move = MessageFactory.DecodePayLoad<PlayerMove>(message);
-                Debug.Log($"[Server] Player Moved To : ({move.x},{move.y},{move.z})");
+                Debug.Log($"[Server] Player Moved To : ({move.Position.x},{move.Position.y},{move.Position.z})");
                 break;
             case MessageTypes.Chat:
                 ChatMessage chat = MessageFactory.DecodePayLoad<ChatMessage>(message);
@@ -56,7 +57,7 @@ public static class MessageDispatcher
                 break;
             case MessageTypes.NetPing:
                 NetPing ping = MessageFactory.DecodePayLoad<NetPing>(message);
-                MainThreadDispatcher.Enqueue(() => { NetworkManager.Instance.OnPong(ping); });
+                MainThreadDispatcher.Enqueue(() => { PingCalculator.Instance.OnPong(ping); });
                 break;
         }
     }

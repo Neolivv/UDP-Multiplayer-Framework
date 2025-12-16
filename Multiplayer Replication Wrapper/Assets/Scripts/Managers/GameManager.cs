@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -5,7 +6,9 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
-    public GameObject playerprefab;
+    public Action<string> OnPlayerJoined;
+
+    [SerializeField] GameObject playerprefab;
 
     Dictionary<string, GameObject> SpawnedPlayers = new Dictionary<string, GameObject>(); 
 
@@ -17,8 +20,6 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
         }
-
-        DontDestroyOnLoad(this);
     }
     public bool PlayerExists(string playerID)
     {

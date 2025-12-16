@@ -1,65 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Projects\\Multiplayer Replication Wrapper\\",
+  "WorkspaceRootPath": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messageserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messageserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagedispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|h:\\projects\\multiplayer replication wrapper\\assets\\scripts\\udptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\udptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|h:\\projects\\multiplayer replication wrapper\\assets\\scripts\\messagetypes\\netping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\netping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|h:\\projects\\udp-multiplayer-framework\\multiplayer replication wrapper\\assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\managers\\chatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\chatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|h:\\projects\\udp-multiplayer-framework\\multiplayer replication wrapper\\assets\\scripts\\managers\\tickmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\tickmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messageserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messageserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\udptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\udptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\netping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\netping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\chatsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\chatsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\playerleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\netmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\netmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\netmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\playerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\assets\\scripts\\messagetypes\\playerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97FAF28-1AF5-3557-E870-36D1DF0241AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messagetypes\\playerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,145 +94,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "NetPing.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetPing.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\NetPing.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetPing.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\NetPing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "TickManager.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\TickManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TickManager.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\TickManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TickManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T01:04:11.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UdpTransport.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\UdpTransport.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UdpTransport.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\UdpTransport.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UdpTransport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T14:21:18.295Z",
+              "WhenOpened": "2025-12-16T00:02:03.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:56:22.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatManager.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\ChatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ChatManager.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\ChatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ChatManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:43:21.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:19:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:16:01.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NetPing.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetPing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\NetPing.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetPing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\NetPing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:04:11.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UdpTransport.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\UdpTransport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UdpTransport.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\UdpTransport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UdpTransport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:21:18.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NetworkManager.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\NetworkManager.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\NetworkManager.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\NetworkManager.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\NetworkManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\NetworkManager.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAhwGAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T18:58:56.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UIManager.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UIManager.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\Managers\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\UIManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:58:22.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T18:58:22.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ChatMessage.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\ChatMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T19:57:04.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T19:57:04.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MessageSerializer.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageSerializer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageSerializer.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageSerializer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MessageSerializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T16:06:20.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MessageDispatcher.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageDispatcher.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageDispatcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageDispatcher.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageDispatcher.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageDispatcher.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageDispatcher.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDgAAAAmAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T17:20:20.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MessageFactory.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageFactory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageFactory.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageFactory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MessageFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "DocumentIndex": 8,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\PlayerMove.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\PlayerMove.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T17:16:53.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T21:08:55.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageSerializer.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageSerializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageSerializer.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageSerializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:06:20.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MessageFactory.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageFactory.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:16:53.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ChatSegment.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\ChatSegment.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\ChatSegment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChatSegment.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\ChatSegment.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\ChatSegment.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChatSegment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T17:36:58.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T17:36:58.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "MessageTypes.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\MessageTypes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:38:44.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T18:38:44.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "PlayerLeave.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\PlayerLeave.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "PlayerJoin.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\PlayerJoin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "NetMessage.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetMessage.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetMessage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\NetMessage.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetMessage.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\NetMessage.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\NetMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +333,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "PlayerList.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerList.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerList.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MessageTypes\\PlayerList.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerList.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MessageTypes\\PlayerList.cs",
               "RelativeToolTip": "Assets\\Scripts\\MessageTypes\\PlayerList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +345,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "MainThreadDispatcher.cs",
-              "DocumentMoniker": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MainThreadDispatcher.cs",
+              "DocumentMoniker": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MainThreadDispatcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainThreadDispatcher.cs",
-              "ToolTip": "H:\\Projects\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MainThreadDispatcher.cs",
+              "ToolTip": "H:\\Projects\\UDP-Multiplayer-Framework\\Multiplayer Replication Wrapper\\Assets\\Scripts\\MainThreadDispatcher.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainThreadDispatcher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
